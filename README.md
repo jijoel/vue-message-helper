@@ -15,10 +15,10 @@ Usage
 ---------
 Import any of the scripts you need:
 
-    import Validation from 'vue-message-helper/src/mixins/laravel-validation'
-    import Scroller from 'vue-message-helper/src/mixins/scroll-to-top'
-    import Snackbar from 'vue-message-helper/src/mixins/snackbar'
-    import Status from 'vue-message-helper/src/mixins/status'
+    import Validation from 'vue-message-helper/lib/mixins/laravel-validation'
+    import Scroller from 'vue-message-helper/lib/mixins/scroll-to-top'
+    import Snackbar from 'vue-message-helper/lib/mixins/snackbar'
+    import Status from 'vue-message-helper/lib/mixins/status'
 
 In your vue script:
 
