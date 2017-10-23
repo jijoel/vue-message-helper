@@ -6,7 +6,9 @@ This package contains several helper mix-ins for vue messages.
 
 Installation
 -------------
+Enter this in dependencies in your package.json file:
 
+    "vue-message-helper": "jijoel/vue-message-helper#master",
 
 
 Usage
