@@ -1,9 +1,10 @@
 {
-    "name": "vue-message-helper",
+    "name": "vue-message-helpers",
     "version": "0.1.0",
     "description": "several helper mix-ins for vue messages",
     "author": "Joel Hatch <jijoel@yahoo.com>",
     "license": "MIT",
+    "main": "./src/index.js",
     "directories": {
         "lib": "./lib"
     },
