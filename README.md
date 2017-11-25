@@ -8,17 +8,17 @@ Installation
 -------------
 Enter this in dependencies in your package.json file:
 
-    "vue-message-helper": "jijoel/vue-message-helper#master",
+    "vue-message-helpers": "jijoel/vue-message-helpers#master",
 
 
 Usage
 ---------
 Import any of the scripts you need:
 
-    import Validation from 'vue-message-helper/lib/mixins/laravel-validation'
-    import Scroller from 'vue-message-helper/lib/mixins/scroll-to-top'
-    import Snackbar from 'vue-message-helper/lib/mixins/snackbar'
-    import Status from 'vue-message-helper/lib/mixins/status'
+    import Validation from 'vue-message-helpers/lib/mixins/laravel-validation'
+    import Scroller from 'vue-message-helpers/lib/mixins/scroll-to-top'
+    import Snackbar from 'vue-message-helpers/lib/mixins/snackbar'
+    import Status from 'vue-message-helpers/lib/mixins/status'
 
 In your vue script:
 
